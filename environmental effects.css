@@ -1,0 +1,57 @@
+body {
+	background-image: 
+	url("https://hydecounty-hotline.org/wp-content/uploads/2017/04/emotional-abuse-696x460-1.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 1920px 969px;
+}
+h1{
+	color: white;
+}
+h2{ 
+	color: black;
+	background-color: white;
+}
+.grid{
+	display: grid;
+	grid-template-columns: 500px 500px 500px;
+	height: 300px;
+	width: 1000px;
+}	
+.item1{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.item2{
+	margin-left: 400px;
+	margin-top: 20px;
+}
+img{
+	height: 600px;
+	width: 500px;
+	margin-top: 30px;
+}
+.link{
+	display: grid;
+	grid-template-columns: 500px 500px 500px;
+	grid-template-rows: 100px 100px 100px;
+	height: 100px;
+	width: 50px;
+}
+.item5{
+	color: white;
+	font-size: 40px;
+}
+.item6{
+	color: white;
+	font-size: 40px;
+}
+.item7{
+	color: white;
+	font-size: 40px;
+}
+h3{
+	color: white;
+}
+a{
+color: white;
+}	
